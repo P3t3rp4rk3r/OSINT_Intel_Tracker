@@ -1,0 +1,5 @@
+http://opendns.com/search/   DNS Search 
+http://dns-lookup.com  DNS Search/Lookup
+http://easywhois.com  Whois, DNS IP ETC tool
+http://securitytrails.com/dns-trails  DNS data 
+http://dnsmap.io  Worldwide DNS Propagation Checker

@@ -1,0 +1,14 @@
+http://opendata.cern.ch
+http://databasd.com
+http://datasetsearch.research.google.com
+http://datahub.io/search
+http://data.london.gov.uk/dataset
+http://datasetsearch.research.google.com
+http://datasearch.elsevier.com
+http://databasd.com
+http://search.datacite.org
+http://datasearch.gesis.org/start
+http://oaspub.epa.gov/emap/webdev_emap.search
+http://geoseer.net
+http://opendatanetwork.com
+

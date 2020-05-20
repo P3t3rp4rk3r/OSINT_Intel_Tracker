@@ -1,0 +1,9 @@
+http://omim.org
+http://malacards.org
+210.107.182.61/geneSearch/
+http://genome.jp/kegg/disease/
+http://findzebra.com
+http://mastermind.genomenon.com
+http://disgenet.org/search
+http://orpha.net/consor/cgi-bin/index.php?lng=EN
+http://diseasesdatabase.com

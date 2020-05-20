@@ -1,0 +1,36 @@
+http://dataportals.org
+http://academictorrents.com
+http://opendata.cern.ch
+http://corpus-db.org
+http://ncdc.noaa.gov/data-access
+http://huduser.gov/portal/pdrdatas_landing.html
+http://datausa.io
+http://dataone.org
+https://www.datasetlist.com/
+http://search.datacite.org 
+http://datasf.org
+http://earthdata.nasa.gov
+http://datasearch.elsevier.com/#/ 
+http://enigma.com 
+http://fred.stlouisfed.org
+http://datasearch.gesis.org/start   
+http://figshare.com   
+http://datasetsearch.research.google.com 
+http://search.gleif.org/#/search/  
+http://msropendata.com
+http://opendatanetwork.com  search engine
+http://openpaymentsdata.cms.gov Open Payment search
+http://data.fivethirtyeight.com
+http://openicpsr.org/openicpsr/ Social Data
+http://ncdc.noaa.gov/cdo-web/search  climate data
+http://registry.opendata.aws  AWS Data
+http://datahub.io/search  
+http://gdeltproject.org/data.html
+http://data.un.org   search engine
+http://visualdata.io computer vision datasets
+http://webdatacommons.org  CC data
+http://data.worldbank.org World Bank Open Data
+http://geoseer.net  spatial data search engine
+http://datasearch.elsevier.com/#/  search engine
+http://data.mendeley.com/research-data/
+

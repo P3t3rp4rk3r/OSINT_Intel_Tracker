@@ -1,0 +1,9 @@
+
+site:http://google.com inurl:cse search engine
+
+site:http://google.com inurl:cse inurl:cx=
+
+publicurl:http://cse.google.com/cse?cx=  search engine
+
+inurl:cse inurl:cx=  custom search engine
+
