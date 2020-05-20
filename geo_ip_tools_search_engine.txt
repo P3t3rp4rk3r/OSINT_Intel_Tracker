@@ -1,0 +1,54 @@
+http://twcc.fr/en/#  World Coordinate Converter
+http://epsg.io  world coordinates search 
+http://mgrs-mapper.com/new/index.html  MGRS Mapper
+http://gpsvisualizer.com  map tool
+http://gps-coordinates.net  GPS Tool
+http://geolive.ca  mapping tool
+http://geonode.org  geospacial tool
+http://geoipview.com  ip tool
+http://mygeoposition.com  location tool
+http://mapshaper.org  map tool
+http://geopeeker.com  See how a site appears to the rest of the world
+http://geojson.io  map tool
+http://geosq.com  distance tool
+http://dwtkns.com/pointplotter/  map coordinates
+http://geoip.com  IP location
+mc.bbbike.org/mc/
+https://roundshot.com/xml_1/internet/en/application/d170/f172.cfm
+http://animaps.com/#!home
+https://map.baidu.com/@11590057.96,4489812.75,4z
+https://bing.com/maps
+https://corona.cast.uark.edu
+https://discover.digitalglobe.com
+google.com/streetview/
+https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html
+https://earthexplorer.usgs.gov
+https://ctrlq.org/maps/address/
+https://geodatatool.com
+http://geogig.org
+https://geoip.com
+http://geoiplookup.net
+https://geoipview.com
+https://iplookup.flagfox.net
+http://brianfolts.com/driver/
+https://grass.osgeo.org
+https://inspire-geoportal.ec.europa.eu
+https://iplocation.com
+https://ipwhois.io
+https://map.kakao.com
+http://quakes.globalincidentmap.com
+https://www.n2yo.com/
+maperitive.net
+https://maphub.net
+https://mapquest.com
+https://openstreetcam.org/map/@34.867904962568744,-72.72949218750001,5z
+http://hikebikemap.org
+https://legacy.lib.utexas.edu/maps/index.html
+http://polymaps.org
+http://routeview.org/VirtualRide/
+https://timescape.io/login
+https://un.org/Depts/Cartographic/english/htmain.htm
+http://upu.int/en/the-upu/member-countries.html
+https://viamichelin.com
+https://crowdmap.com/welcome
+https://yandex.com/maps/?ll=10.854186%2C49.182076&z=4

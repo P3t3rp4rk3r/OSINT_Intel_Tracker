@@ -1,0 +1,17 @@
+http://covid19.alabama.gov/search.html  Covid search
+http://pubchem.ncbi.nlm.nih.gov  chemistry search
+http://pillbox.nlm.nih.gov  pill search
+http://health.gov  health search
+http://eric.ed.gov  academic search
+http://govspend.com  GOV spending
+http://secstates.com  Business search
+http://countyoffice.org  contract info
+http://fdlp.gov  Federal Depository Library Program
+http://govtrack.us  tracking GOV
+http://unclaimed.org   unclaimed money
+http://medalerts.org  VAERS 
+http://govcb.com  bids
+http://govinfo.gov 
+http://nsatt.org  terrorists
+http://missingmoney.com
+

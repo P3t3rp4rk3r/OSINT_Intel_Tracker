@@ -1,0 +1,10 @@
+http://epsg.io
+http://latitude.to
+http://latlong.net
+http://findlatitudeandlongitude.com
+http://gps-coordinates.net
+http://gpscoordinates.info
+http://getlatlong.net
+http://gridreferencefinder.com
+http://whatsmygps.com
+

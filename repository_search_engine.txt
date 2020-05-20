@@ -1,0 +1,8 @@
+http://grep.app
+http://search.maven.org
+http://jurn.org/graft/index.html
+http://glytoucan.org
+http://repository.eduhk.hk
+http://repositoryfinder.datacite.org
+http://roar.eprints.org/cgi/search/simple
+http://v2.sherpa.ac.uk/opendoar/

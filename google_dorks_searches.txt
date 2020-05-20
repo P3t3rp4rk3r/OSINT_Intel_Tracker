@@ -1,0 +1,263 @@
+Webcam Dorks #webcam #IOT #googledorks #OSINT
+
+intext:"powered by webcamXP 5"
+
+inurl:view.shtml
+
+"VB Viewer" inurl:/viewer/live/ja/live.html
+
+intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
+
+intitle:"webcamXP 5" inurl:8080 'Live"
+
+intitle:”Live View / - AXIS”
+
+
+Google Dorks #HACKING #SEO #OSINT #Google #dorks
+
+http://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc
+
+http://hackingpassion.com/google-dorks-an-easy-way-of-hacking/
+
+http://spyfu.com/blog/google-search-operators/
+
+http://exploit-db.com/google-hacking-database
+
+https://blackcathacker.tumblr.com/post/31978388021/some-google-dorks
+
+
+
+publicurl:
+index.of
+define:
+map:
+inanchor:
+link:
+domain:
+related:
+
+directory:
+site:
+inurl:
+allintext:
+filetype:
+cache:
+info:
+source:
+related:
+
+
+
+http://teccon.co.in/google-searchgoogle-dork-google-seo-understanding/    Great Google Dork Guide
+
+http://hackingpassion.com/google-dorks-an-easy-way-of-hacking/     Google Hacking 
+
+http://binarytides.com/hack-online-webcams-google/
+Webcam Dorks
+
+http://reddit.com/r/blackhat/comments/578j42/osint_abusing_robotstxt_and_google_dorking_to/    Abusing robots.txt
+
+Google Dorking Tools
+
+http://github.com/opsdisk/pagodo   Google Hacking Database scraping
+
+http://github.com/k3170makan/GooDork   Command line Google dorking tool
+
+http://github.com/DanMcInerney/fast-recon   Perform Google dorks against a domain
+
+
+Lots of Google Dorks
+
+http://github.com/BullsEye0/google_dork_list
+
+http://github.com/arimogi/Google-Dorks
+
+http://github.com/blueudp/DorkMe
+
+http://github.com/LubyRuffy/Google-Dorks-Analysis
+
+https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc
+
+Webcam Dorks #webcam #IOT #googledorks #OSINT
+
+intext:"powered by webcamXP 5"
+
+inurl:view.shtml
+
+"VB Viewer" inurl:/viewer/live/ja/live.html
+
+intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
+
+intitle:"webcamXP 5" inurl:8080 'Live"
+
+intitle:”Live View / - AXIS”
+
+Google Dorks #googledorks #hacking #osint #infosec 
+Google Dorks & Search
+http://einvestigator.com/google-search-commands/
+
+Dorks & Explanation
+http://thehacktoday.com/google-dorks-hacks-explanation/
+
+Hack w/ Dorks
+http://securethelogs.com/2019/05/02/how-to-hack-with-google-dorks/
+
+Guide
+http://soar.sh/guide-google-dorks/
+
+
+Google Dorks  #OSINT #SEO #Google  #hacking 
+
+http://teccon.co.in/google-searchgoogle-dork-google-seo-understanding/    Great Google Dork Guide
+
+http://hackingpassion.com/google-dorks-an-easy-way-of-hacking/     Google Hacking 
+
+http://binarytides.com/hack-online-webcams-google/
+Webcam Dorks
+
+http://reddit.com/r/blackhat/comments/578j42/osint_abusing_robotstxt_and_google_dorking_to/    Abusing robots.txt
+
+Google Dorks of Live Webcams ETC  http://tinyurl.com/v9u25c5
+
+Webcam Hackng   http://tinyurl.com/su4smxe
+
+Controllable Webcams   http://tinyurl.com/un6anfj
+
+Google Hacking Web Cams   http://tinyurl.com/qt8udos
+
+http://world-webcams.nsspot.net
+
+
+Google Hacking #hacking #osint #seo #infosec #cybersec 
+
+
+Hackers Favorite Search Queries   http://strongsources.wordpress.com/tag/google-search-query/
+
+Google Hacking Guide 
+http://reddit.com/user/ra6907/comments/ew0rjt/google_hacking_guide/
+
+Non-intrusive recon
+http://secvibe.com/non-intrusive-reconnaissance-a-step-by-step-guide-e1cc3a88e679
+
+http://hackingandsecurity.blogspot.com
+
+
+Google Hacking #hacking #osint #infosec #SEO 
+
+Dorks   http://decal.github.io/werdlists/search-dorks/
+
+OSINT Tips  http://github.com/blaCCkHatHacEEkr/OSINT_TIPS
+
+Dorks   http://hackingblogs.com/google-dorks/
+
+Search Engine Queries
+https://sharprocket.com.ph/search-engine-queries-cheatsheet/
+
+Google Hacking #hacking #osint #infosec #SEO 
+
+Use Google to Hack
+http://null-byte.wonderhowto.com/how-to/use-google-hack-googledorks-0163566/
+
+What are Google Dorks
+http://hackingblogs.com/google-dorks/
+
+http://smittop.blogspot.com/2018/07/huge-collection-of-google-dork.html
+
+
+Webcam google Dorks #iot #hacking #osint #cybersec 
+#webcams #internetofthings #infosec 
+
+inurl:axis-cgi/mjpg/video.cgi
+
+intitle:NetworkCamera intext:"Pan / Tilt" inurl:ViewerFrame
+
+inurl:cgistart  network camera
+
+intitle:"webcam 7" inurl:'/gallery.html'
+
+Find google custom search engines #osint #GoogleCSE #seo #infosec #cybersec #searchengines 
+
+site:.edu "http://cse.google.com/cse/"
+
+site:.edu "http://cse.google.com" "cx="
+
+site:http://github.com "http://cse.google.com/cse/" "cx="
+
+https://programmablesearchengine.google.com/about/
+
+Find google custom search engines #osint #GoogleCSE #seo #infosec #cybersec #searchengines 
+
+site:.org  "http://cse.google.com/cse/" "cx="
+
+site:.io  "http://cse.google.com/cse/" "cx="
+
+site:.co  "http://cse.google.com/cse/" "cx="
+
+site:.net  "http://cse.google.com/cse/" "cx="
+
+Find google custom search engines #osint #GoogleCSE #seo #infosec #cybersec #searchengines 
+
+site:http://google.com inurl:cse inurl:cx=
+
+site:http://google.com inurl:publicurl?
+
+site:http://google.com inurl:cse inurl:home?
+
+inurl:http://cse.google.com/cse?cx=partner-pub-
+
+Google Dorks #OSINT #SEO #hacking #infosec 
+
+OSINT Tools for Beginners   http://techbrewery.co.in/blog/10-most-useful-osint-tools-for-beginners/
+
+Hacking Resources  http://reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide/
+
+http://github.com/vitalysim/Awesome-Hacking-Resources
+
+Google Dorking  http://myteachworld.com/2020/05/how-to-use-google-dorks-exploring.html
+
+Google Hacking #OSINT #SEO #hacking #infosec 
+
+Google Dorks  http://serhack.me/articles/google-dorks-how-hacking/
+
+Google Hack Tricks  http://tipstrickshack.blogspot.com/2012/09/google-hack-trick.html
+
+Sourcing Hacks  http://sourcecon.com/two-simple-sourcing-hacks/
+
+Google Dork Guide  http://soar.sh/guide-google-dorks/
+
+Google Hacking  http://irongeek.com/i.php?page=videos/osint-cyberstalking-footprinting-recon#Anti-social_networks_Google_Hacking
+
+Google Hacking #OSINT #IOT #google #hacking 
+
+Google Hacking   http://hackersonlineclub.com/google-hacking/
+
+Understanding Google Search   http://blooplace.eu/google-dorks-understanding-google-search/
+
+Google Hacking Part 1  http://itblogsec.com/google-hacking-dorking-tutorial-1/
+
+Google Hacking  2   http://johnnyblogger.wordpress.com/google-hacking-102/
+
+http://tipstrickshack.blogspot.com/2012/09/google-hack-trick.html
+
+Webcam Google Dorks #webcams #OSINT #hacking #IOT
+
+intitle:"active webcam page"
+
+allintitle:live view intitle:AXIS
+
+intitle:”webcam 7″ inurl:’/gallery.html’
+
+intitle:”EvoCam” inurl:”webcam.html”
+
+inurl:”MultiCameraFrame?Mode=Motion”
+
+intitle:liveapplet inurl:LvAppl
+
+technotification.com/2017/05/google-dorks-the-hackers-way.html
+
+http://blog.gowtham-sai.com/gooooogle-it-better-with-dorks-4c121b300735
+
+http://einvestigator.com/google-search-commands/
+https://armoryxiii.wordpress.com/2014/04/22/google-dorks-for-finding-unprotected-webcams/
+
+

@@ -1,0 +1,34 @@
+http://viralharia.github.io/finddit/  Visual search tool
+http://findit-search.herokuapp.com  Search Tool
+http://camas.github.io/reddit-search/  Post search 
+http://reddit.com/r/subreddit/top.json  Json tool
+http://redditbrowser.com
+http://pvik.github.io/saved-for-reddit
+
+http://redditarchive.com  
+http://koalabear.nl/reddit/ Open dir URL Search
+http://files.pushshift.io/reddit/  
+http://github.com/rockets/rockets   post streamer
+
+http://imagoid.com  Supercharged Reddit galleries
+http://panoptikos.com   image viewer
+http://apolloapp.io  Reddit app
+http://redditprofile.com  expert finder
+http://reddit-stream.com  live thread viewer
+
+http://wisdomofreddit.com   Comment search 
+http://redditery.com   Reddit gallery
+http://reddit.guide   find related subreddits
+http://searcheddit.com   post search
+http://redditmetis.com   get your user stats
+
+https://wisdomofreddit.com/
+http://searcheddit.com
+http://redditlist.com
+http://i.rarchives.com
+http://redditp.com
+http://imagoid.com
+http://reddit.guide
+http://subredditstats.com
+http://redditsearch.io
+

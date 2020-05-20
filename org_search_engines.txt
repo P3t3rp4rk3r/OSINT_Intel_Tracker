@@ -1,0 +1,11 @@
+http://rseek.org  
+http://drugster.org  drug search
+http://insecam.org  webcam search
+http://chemscanner.org  chemical search
+http://semanticscholar.org  academic search
+http://blogsearchengine.org   blog search
+http://oyez.org  law search
+http://scholarx.org  medical search
+http://jstor.org  journal search
+http://research.omicsgroup.org  science search
+

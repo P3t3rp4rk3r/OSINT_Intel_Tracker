@@ -1,0 +1,24 @@
+
+Directory: webcams
+index.of live webcams
+"directory of webcams"
+inposttitle:webcam directory
+allintitle: webcam directory
+link: http://insecam.org
+
+Webcam Dorks #OSINT #HACKING #infosec
+adding -dork -hacking  to all webcam dorks helps get just webcams.
+
+intitle:"webcamXP 5" inurl:'/gallery.html' -download  -dork -hacking
+intitle:"active webcam page"
+intitle:"my webcamXP server!"
+intitle:"Live View / - AXIS"
+
+inurl:axis-cgi/mjpg/video.cgi
+
+intitle:NetworkCamera intext:"Pan / Tilt" inurl:ViewerFrame
+
+inurl:cgistart  network camera
+
+intitle:"webcam 7" inurl:'/gallery.html'
+
